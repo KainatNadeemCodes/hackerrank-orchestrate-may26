@@ -1,4 +1,5 @@
 anthropic==0.49.0
+groq>=0.9.0
 scikit-learn==1.4.2
 numpy==1.26.4
 pandas==2.2.2
